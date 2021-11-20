@@ -1,0 +1,26 @@
+{
+  "name": "node-social-media-api",
+  "version": "1.0.0",
+  "description": "A Node Js Social Media REST API with MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "Social",
+    "Media"
+  ],
+  "author": "Tola Abiodun",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "mongoose": "^6.0.13",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  }
+}
