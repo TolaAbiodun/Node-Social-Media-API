@@ -8,4 +8,9 @@ A Node/Express Js Social Media REST API with CRUD capabilities.
  - Update Posts
  - Delete Posts
  
+ #Usage
+  - Clone this Repo and Navigate to code directory
+  - Set up MongoDb database connection
+  - Enter npm start in Terminal
+  - Test API with Postman
  
